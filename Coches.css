@@ -31,13 +31,13 @@ img {
 
 nav {
 
-    background-image: url(../Coches/imagen/fondoWeb.jpg);
+    background-image: url(imagen/fondoWeb.jpg);
     border: 0px solid black;
 }
 
 li {
    
-    background-image: url(../Coches/imagen/rueda2.png); 
+    background-image: url(imagen/rueda2.png); 
     
     width: 360px;
     border: 2px solid rgb(0, 0, 0);
@@ -72,7 +72,7 @@ header {
     border: 2px solid black;
 
      
-    background-image: url(../Coches/imagen/fondoRueda.png);  
+    background-image: url(imagen/fondoRueda.png);  
 }
 
 ol {
