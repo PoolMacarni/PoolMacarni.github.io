@@ -1,3 +1,5 @@
+
+
 h1 {
 
     font-family: "Carter One", system-ui;
@@ -15,9 +17,9 @@ h1 {
 figure {
     text-align: center;
     width: 25%;
-    margin: 1px;
+    
     display: inline-block;
-    margin-right: 50px;
+    margin-right: 4%;
     margin-left: 4%;
 }
 
@@ -89,7 +91,7 @@ li:hover{
     color: rgb(250, 116, 116);
 }
 div{
-    border: 3px solid rgb(0, 0, 0);
+   
 }
 ol.dos{
     background-image: url(imagen/fondoRueda.png);
@@ -107,4 +109,27 @@ li.uno{
    width: 500px;
    margin-right: 80px;
     
+}
+footer p{
+    border: 2px solid black;
+    padding: 30px;
+    padding-right: 20%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: -20px;
+    text-align: center;
+    
+}
+#unoo{
+    width: 49%;
+    display: inline-block;
+    border: 1.5px solid black;
+}
+#doss{
+    width: 49%;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 1.35%;
+    border: 1.5px solid black;
+   
 }
